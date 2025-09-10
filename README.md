@@ -1,2 +1,2 @@
-# Goeiendag! 👋
-Dit is het GitHub account van Semmetje11lolly, een student aan Hogeschool Rotterdam.
+# Heyo! 👋
+This is the GitHub account of Semmetje11lolly, a student at Rotterdam University of Applied Sciences.
