@@ -1,14 +1,8 @@
-<h1 align="left">Heyo, I'm Semmetje! 👋</h1>
+# Heyo, I'm Semmetje! 👋
 
-###
+A passionate Creative Developer who wants to develop products that truly enchant you, young and old!
 
-<p align="left">A passionate Creative Developer who wants to develop products that truly enchant you, young and old!</p>
-
-###
-
-<h2 align="left">Skills & Tools</h2>
-
-###
+## Skills & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -44,32 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
-
-<h2 align="left">Currently doing</h2>
-
-###
+## Currently doing
 
 📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences. <br>🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl)
 
-###
+## Contact
 
-<h2 align="left">Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://discordapp.com/users/303087315578781706" target="_blank">
-    📞 Discord
-  </a>
-  <br>
-  <a href="https://www.instagram.com/semmetje11lolly" target="_blank">
-    📷 Instagram
-  </a>
-  <br>
-  <a href="https://www.youtube.com/@Semmetje11lolly" target="_blank">
-    📺 YouTube
-  </a>
-</div>
-
-###
+Ways to contact me can be found in the sidebar
