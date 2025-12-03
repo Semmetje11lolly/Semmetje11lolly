@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences. <br>🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl)</p>
+📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences. <br>🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl)
 
 ###
 
@@ -62,9 +62,11 @@
   <a href="https://discordapp.com/users/303087315578781706" target="_blank">
     📞 Discord
   </a>
+  <br>
   <a href="https://www.instagram.com/semmetje11lolly" target="_blank">
     📷 Instagram
   </a>
+  <br>
   <a href="https://www.youtube.com/@Semmetje11lolly" target="_blank">
     📺 YouTube
   </a>
