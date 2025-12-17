@@ -1,9 +1,9 @@
 # Heyo, I'm Semmetje! 👋
-
 A passionate Creative Developer who wants to develop products that truly enchant you, young and old!
 
-## Skills & Tools
 
+
+## Skills & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
@@ -34,10 +34,13 @@ A passionate Creative Developer who wants to develop products that truly enchant
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-## Currently doing
 
-📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences. <br>🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl)
+
+## Currently doing
+📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences.<br>
+🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl).
+
+
 
 ## Contact
-
 Ways to contact me can be found in the sidebar
