@@ -39,8 +39,3 @@ A passionate Creative Developer who wants to develop products that truly enchant
 ## Currently doing
 📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences.<br>
 🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl).
-
-
-
-## Contact
-Ways to contact me can be found in the sidebar
