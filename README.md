@@ -43,4 +43,5 @@ A passionate Creative Developer who wants to develop products that truly enchant
   ⚛️ Frond-end interface with React<br>
   ⚙️ Back-end API with Express
 </details>
+
 🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl).
