@@ -38,10 +38,13 @@ A passionate Creative Developer who wants to develop products that truly enchant
 
 ## Currently doing
 <details>
-  <summary>📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences.<br></summary>
-  <sup></up>Currently learning:</sup><br>
-  ⚛️ Frond-end interface with React<br>
-  ⚙️ Back-end API with Express
+  <summary>📚 Studying Creative Media and Game Technologies @ Rotterdam University of Applied Sciences.</summary>
+  <sup><i>Currently building:</i></sup><br>
+  ⚛️ Frond-end interfaces with React<br>
+  ⚙️ Back-end RESTful APIs with Express
 </details>
-
-🎡 Creating and maintaining a virtual Minecraft Themepark server @ [VentureValley](https://venturevalleymc.nl).
+<details>
+  <summary>🎡 Creating and maintaining a virtual Minecraft Themepark server @ <a href="https://venturevalleymc.nl">VentureValley</a>.</summary>
+  <sup><i>Currently building:</i></sup><br>
+  🕸️ <a href="https://github.com/Semmetje11lolly/VentureValley-website">Rebuild</a> of old WordPress & Elementor website with Laravel<br>
+</detail>
